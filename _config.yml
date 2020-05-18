@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title:neuromux
+email: avitomar12@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: avitomar12.github.io/neuromux # the base hostname & protocol for your site
 
 twitter_username:
-github_username:
+github_username: avitomar12
 
 # Build settings
 markdown: kramdown
